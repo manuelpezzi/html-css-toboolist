@@ -44,6 +44,11 @@ main{
     border-style:solid ;
     border-color: grey;
 }
+.special{
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
 h3{
     font-weight: bold;
     font-size: 20px;
@@ -71,4 +76,41 @@ h3{
     background-color: #47ADF1;
     padding: 5px 10px;
     border-radius: 999px;
+    color: white;
+}
+.false{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 23px;
+    text-align: center;
+    aspect-ratio: 1;
+    background-color: white;
+    border-radius: 50%;
+    border-style: solid;
+    border-color:red;
+    color: red;
+    font-weight: bolder;
+    font-size: 200;
+}
+.q1{ 
+     background-color:#9C72E4 ;
+    padding: 5px 10px;
+    border-radius: 999px;
+    color: white;
+}
+.today{
+    padding: 10px;
+}
+.rec{
+    padding: 5px 10px;
+    border-radius: 999px;
+    background-color: #64C0A9;
+    color: white;
+}
+.mob{
+    background-color: #F29E33;
+    color: white;
+    border-radius: 999px;
+    padding: 5px 10px;
 }
