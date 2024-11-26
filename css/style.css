@@ -15,9 +15,32 @@
 }
 main{
     background-color: #b1c4ce;
-    padding: 200px 200px;
+    padding: 100px 200px;
 }
-section{
- height: 400px;
+.first{
+ padding: 50px;
   background-color: rgb(40, 144, 22);
+  margin: 6px;
+}
+.second{
+    padding: 50px;
+    background-color: yellow;
+    margin:6px;
+}
+.button1{
+    background-color: #47ADF1;
+    color: white;
+    border-radius:5px;
+    padding: 5px;
+    margin: 4px;
+    border-style:solid ;
+    border-color: #47ADF1 ;
+}
+.button2{
+    background-color: #FFFFFF;
+    color: grey;
+    border-radius: 5px;
+    padding: 5px;
+    border-style:solid ;
+    border-color: grey;
 }
