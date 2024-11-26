@@ -1,18 +1,23 @@
+#logo{
+    padding:20px 10px 5px 5px
+}
+
 
 #logo,
 .title{
     vertical-align: middle;
 }
 .title{
-   font-size: 200px;
+   font-size: 100px;
    font-weight: bold;
-  margin: 15px; 
+  margin: 15px;
+  padding: 0px 0px 10px 10px; 
 }
-.button1{
-    background-color:#47ADF1;
-    margin: 20px;            
-    font-size: 50px;
-
+main{
+    background-color: #b1c4ce;
+    padding: 200px 200px;
 }
-
-
+section{
+ height: 400px;
+  background-color: rgb(40, 144, 22);
+}
