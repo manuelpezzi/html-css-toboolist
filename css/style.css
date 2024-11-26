@@ -114,3 +114,15 @@ h3{
     border-radius: 999px;
     padding: 5px 10px;
 }
+.web{
+    background-color: #D863A0;
+    color: white;
+    border-radius: 999px;
+    padding: 5px 10px;
+}
+.sale{
+    background-color: #B0C926;
+    color: white;
+    border-radius: 999px;
+    padding: 5px 10px;
+}
