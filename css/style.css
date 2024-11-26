@@ -44,3 +44,31 @@ main{
     border-style:solid ;
     border-color: grey;
 }
+h3{
+    font-weight: bold;
+    font-size: 20px;
+}
+.quarterly{
+    margin: 20px;
+    font-weight: 600;
+}
+.circle{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 23px;
+    text-align: center;
+    aspect-ratio: 1;
+    background-color: white;
+    border-radius: 50%;
+    border-style: solid;
+    border-color:green;
+    color: green;
+    font-weight: bolder;
+    font-size: 200;
+}
+.edit{
+    background-color: #47ADF1;
+    padding: 5px 10px;
+    border-radius: 999px;
+}
